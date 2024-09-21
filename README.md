@@ -1,6 +1,6 @@
 # RedirectIndaba
 
-# Deep Learning Indaba Practicals 2023
+# Deep Learning IndabaX Practicals 2024
 
 ## The Practicals
 
