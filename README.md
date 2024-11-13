@@ -4,7 +4,7 @@
 
 | Topic 💥 | Description 📘 |
 |----------|----------------|
-| **Dive into Machine Learning: Learning by Implementing**  [French](#) ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg) | t their very first machine-learning model step by step. |
+| **Dive into Machine Learning: Learning by Implementing**   <br> [French](#) ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg) | t their very first machine-learning model step by step. |
 | **Machine Learning for Biology: Learning the Language of Life** <br> [Open in Colab](#) ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg) | have a chance to train your own model! |
 | **Atsou Biology: Pytorch** <br> [English](#) [Open in Colab](#) ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg) | his note bookdel! |
 
