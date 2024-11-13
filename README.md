@@ -1,4 +1,4 @@
-# Deep Learning Indaba Practicals 2023
+# IndabaX Togo Practicals 2024
 
 ## The Practicals
 
