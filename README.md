@@ -1,6 +1,5 @@
 # IndabaX Togo Practicals 2024
 
-## The Practicals
 
 | Topic 💥 | Description 📘 |
 |----------|----------------|
